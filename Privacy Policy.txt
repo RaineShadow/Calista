@@ -27,6 +27,12 @@ We do not sell or share your personal information with third parties. However, W
 Data Retention
 We retain your information for as long as necessary to provide Calista’s services or as required by law. We will delete your information upon your request or when it is no longer needed.
 
+Delete Your Personal Data
+You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.
+Our Application may give You the ability to delete certain information about You from within the Application.
+You may update, amend, or delete Your information at any time by using commands to remove data. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us.
+Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.
+
 Data Security
 We take reasonable measures to protect your information from unauthorized access, alteration, or destruction. However, no security measure is perfect, and We cannot guarantee the security of your information.
 
